@@ -1,4 +1,4 @@
-# miniqmt-skilss
+# miniqmt-skills
 
 ## 使用方法
 
